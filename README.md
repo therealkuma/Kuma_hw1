@@ -60,5 +60,5 @@ What solution does this company offer that their competitors do not or cannot of
   Because that's the underlining rule for this game of technology.
 
  Website Cite:
- https://docs.crbcos.com/arix/docs
+ https://docs.crbcos.com/arix/docs    <br />
  https://www.crossriver.com/cross-river-announces-620-million-capital-raise-accelerate-next-stage-growth
