@@ -13,8 +13,8 @@
 * How did the idea for the company (or project) come about?
   The original idea is to Streamline payments using new technology.
 
-* How is the company funded? How much funding have they received? >
-  Cross River Bank is funded by Private equity firms including Eldridge and Andreessen Horiowirz.  CRB raise about 30 million dollars in 2016 from Venture capital that included capital from Battery Ventures, Rabbit Capital and Andreessen Horowitz. 
+* How is the company funded? How much funding have they received? <br />
+  Cross River Bank is funded by Private equity firms including Eldridge and Andreessen Horiowirz. CRB raise about 30 million dollars in 2016 from Venture capital that included capital from Battery Ventures, Rabbit Capital and Andreessen Horowitz. 
 
 ## Business Activities:
 
