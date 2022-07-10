@@ -58,3 +58,7 @@ What solution does this company offer that their competitors do not or cannot of
   Company should have advance knowledge about the blockchain codings and rule behind such domain. company should abide to any governmental rules on such currency.
 * Why are these technologies appropriate for your solution? <br />
   Because that's the underlining rule for this game of technology.
+
+ Website Cite:
+ https://docs.crbcos.com/arix/docs
+ https://www.crossriver.com/cross-river-announces-620-million-capital-raise-accelerate-next-stage-growth
